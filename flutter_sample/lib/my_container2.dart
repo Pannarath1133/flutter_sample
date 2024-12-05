@@ -60,10 +60,6 @@ class MyContainer2 extends StatelessWidget {
     alignment: Alignment.center,
     decoration: BoxDecoration(
       color:  Colors.blue.shade100,
-      border: Border.all(
-        color: Colors.black,
-        style: BorderStyle.none
-      ),
       shape: BoxShape.circle,
     ),
     child: const Text("Circle",
