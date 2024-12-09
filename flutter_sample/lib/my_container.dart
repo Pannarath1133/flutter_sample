@@ -48,7 +48,7 @@ class MyContainer extends StatelessWidget {
         width: 10,
       ),
       shape: BoxShape.rectangle,
-      borderRadius: const BorderRadius.all(Radius.elliptical(50, 50))
+      borderRadius: const BorderRadius.all(Radius.elliptical(50, 50)) // มุมโค้งมน
 
     ),
     child: const Text("L O V E",
